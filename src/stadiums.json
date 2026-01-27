@@ -1,0 +1,302 @@
+[
+  {
+    "Stadium_Name": "BMO Field",
+    "Team": "Toronto FC",
+    "City": "Toronto",
+    "Country": "Canada",
+    "Latitude": 43.63339887,
+    "Longitude": -79.41859739,
+    "Capacity": 30000,
+    "Image_URL": " https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/f_auto/mls-tor-prd/jmu3mb2c06k9awl9wzl6.jpg"
+  },
+  {
+    "Stadium_Name": "BC Place",
+    "Team": "Vancouver Whitecaps",
+    "City": "Vancouver",
+    "Country": "Canada",
+    "Latitude": 49.27688993,
+    "Longitude": -123.1119561,
+    "Capacity": 54500,
+    "Image_URL": " https://images-dh-production-baselayer.dailyhive.com/uploads/2017/08/bc-place-stadium-fifa-womens-world-cup-2015-vancouver.jpg?format=auto&width=988"
+  },
+  {
+    "Stadium_Name": "Saputo Stadium",
+    "Team": "CF Montreal",
+    "City": "Montreal",
+    "Country": "Canada",
+    "Latitude": 45.56322397,
+    "Longitude": -73.55261548,
+    "Capacity": 19619,
+    "Image_URL": " https://image-tc.galaxy.tf/wijpeg-czumzpyhcyzfyd9pgtqputxqm/saputo-stadium_standard.jpg?crop=107%2C0%2C1707%2C1280&width=1140"
+  },
+  {
+    "Stadium_Name": "Allianz Field",
+    "Team": "Minnesota United FC",
+    "City": "Saint Paul",
+    "Country": "USA",
+    "Latitude": 44.9528,
+    "Longitude": -93.165,
+    "Capacity": 19400,
+    "Image_URL": " https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Allianz_Field_-_MNUFC_Minnesota_United_st._Paul_Minnesota_MLS_%2840636734693%29.jpg/1920px-Allianz_Field_-_MNUFC_Minnesota_United_st._Paul_Minnesota_MLS_%2840636734693%29.jpg"
+  },
+  {
+    "Stadium_Name": "America First Field",
+    "Team": "Real Salt Lake",
+    "City": "Sandy",
+    "Country": "USA",
+    "Latitude": 40.582923,
+    "Longitude": -111.893156,
+    "Capacity": 20213,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Audi Field",
+    "Team": "D.C. United",
+    "City": "Washington",
+    "Country": "USA",
+    "Latitude": 38.8683,
+    "Longitude": -77.0122,
+    "Capacity": 20000,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Bank of America Stadium",
+    "Team": "Charlotte FC",
+    "City": "Charlotte",
+    "Country": "USA",
+    "Latitude": 35.2258,
+    "Longitude": -80.8528,
+    "Capacity": 38000,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "BMO Stadium",
+    "Team": "Los Angeles FC",
+    "City": "Los Angeles",
+    "Country": "USA",
+    "Latitude": 34.0131,
+    "Longitude": -118.285,
+    "Capacity": 22000,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Chase Stadium",
+    "Team": "Inter Miami CF",
+    "City": "Fort Lauderdale",
+    "Country": "USA",
+    "Latitude": 26.1931,
+    "Longitude": -80.1611,
+    "Capacity": 21550,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Children's Mercy Park",
+    "Team": "Sporting Kansas City",
+    "City": "Kansas City",
+    "Country": "USA",
+    "Latitude": 39.1218,
+    "Longitude": -94.8237,
+    "Capacity": 18467,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Dick's Sporting Goods Park",
+    "Team": "Colorado Rapids",
+    "City": "Commerce City",
+    "Country": "USA",
+    "Latitude": 39.8056,
+    "Longitude": -104.892,
+    "Capacity": 18061,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Dignity Health Sports Park",
+    "Team": "LA Galaxy",
+    "City": "Carson",
+    "Country": "USA",
+    "Latitude": 33.8644,
+    "Longitude": -118.2611,
+    "Capacity": 27000,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Energizer Park",
+    "Team": "St. Louis City SC",
+    "City": "St. Louis",
+    "Country": "USA",
+    "Latitude": 38.631,
+    "Longitude": -90.2109,
+    "Capacity": 22423,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Gillette Stadium",
+    "Team": "New England Revolution",
+    "City": "Foxborough",
+    "Country": "USA",
+    "Latitude": 42.0909,
+    "Longitude": -71.2643,
+    "Capacity": 20000,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Geodis Park",
+    "Team": "Nashville SC",
+    "City": "Nashville",
+    "Country": "USA",
+    "Latitude": 36.1303,
+    "Longitude": -86.7656,
+    "Capacity": 30000,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Inter&Co Stadium",
+    "Team": "Orlando City SC",
+    "City": "Orlando",
+    "Country": "USA",
+    "Latitude": 28.6244,
+    "Longitude": -81.389,
+    "Capacity": 25500,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Lower.com Field",
+    "Team": "Columbus Crew",
+    "City": "Columbus",
+    "Country": "USA",
+    "Latitude": 39.9685,
+    "Longitude": -83.0171,
+    "Capacity": 20371,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Lumen Field",
+    "Team": "Seattle Sounders FC",
+    "City": "Seattle",
+    "Country": "USA",
+    "Latitude": 47.5952,
+    "Longitude": -122.3316,
+    "Capacity": 37722,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Mercedes-Benz Stadium",
+    "Team": "Atlanta United FC",
+    "City": "Atlanta",
+    "Country": "USA",
+    "Latitude": 33.7554,
+    "Longitude": -84.4012,
+    "Capacity": 42500,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "PayPal Park",
+    "Team": "San Jose Earthquakes",
+    "City": "San Jose",
+    "Country": "USA",
+    "Latitude": 37.3514,
+    "Longitude": -121.925,
+    "Capacity": 18000,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Providence Park",
+    "Team": "Portland Timbers",
+    "City": "Portland",
+    "Country": "USA",
+    "Latitude": 45.5214,
+    "Longitude": -122.6917,
+    "Capacity": 25218,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Q2 Stadium",
+    "Team": "Austin FC",
+    "City": "Austin",
+    "Country": "USA",
+    "Latitude": 30.3882,
+    "Longitude": -97.721,
+    "Capacity": 20738,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Shell Energy Stadium",
+    "Team": "Houston Dynamo FC",
+    "City": "Houston",
+    "Country": "USA",
+    "Latitude": 29.7522,
+    "Longitude": -95.354,
+    "Capacity": 20656,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Snapdragon Stadium",
+    "Team": "San Diego FC",
+    "City": "San Diego",
+    "Country": "USA",
+    "Latitude": 32.7844,
+    "Longitude": -117.1228,
+    "Capacity": 35000,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Soldier Field",
+    "Team": "Chicago Fire FC",
+    "City": "Chicago",
+    "Country": "USA",
+    "Latitude": 41.8623,
+    "Longitude": -87.6167,
+    "Capacity": 24955,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Sports Illustrated Stadium",
+    "Team": "New York Red Bulls",
+    "City": "Harrison",
+    "Country": "USA",
+    "Latitude": 40.7367,
+    "Longitude": -74.1503,
+    "Capacity": 25000,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Subaru Park",
+    "Team": "Philadelphia Union",
+    "City": "Chester",
+    "Country": "USA",
+    "Latitude": 39.8322,
+    "Longitude": -75.3799,
+    "Capacity": 18500,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Toyota Stadium",
+    "Team": "FC Dallas",
+    "City": "Frisco",
+    "Country": "USA",
+    "Latitude": 33.1544,
+    "Longitude": -96.8353,
+    "Capacity": 19096,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "TQL Stadium",
+    "Team": "FC Cincinnati",
+    "City": "Cincinnati",
+    "Country": "USA",
+    "Latitude": 39.1114,
+    "Longitude": -84.5211,
+    "Capacity": 26000,
+    "Image_URL": ""
+  },
+  {
+    "Stadium_Name": "Yankee Stadium",
+    "Team": "New York City FC",
+    "City": "New York City",
+    "Country": "USA",
+    "Latitude": 40.8292,
+    "Longitude": -73.9264,
+    "Capacity": 30321,
+    "Image_URL": ""
+  }
+]
