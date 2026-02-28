@@ -68,8 +68,7 @@ Each stadium entry includes: name, team, city, country, coordinates, capacity, s
 
 - [ ] Favourite stadiums (saved to localStorage)
 - [ ] Stadium comparison side-by-side
-- [ ] Marker clustering when zoomed out
-- [ ] URL-synced filters for shareable links
+- [ ] Show more than one picture for each stadium
 
 ---
 
