@@ -7,7 +7,7 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Full View | Stadium Popup |
 |---|---|
