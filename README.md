@@ -38,6 +38,7 @@ This project was also my way of leveling up my React skills while also working w
 
 | Technology | Purpose |
 |---|---|
+| [Python](https://react.dev/) | Data Scrapping|
 | [React](https://react.dev/) | UI framework |
 | [React Leaflet](https://react-leaflet.js.org/) | Map rendering |
 | [Leaflet.js](https://leafletjs.com/) | Core mapping engine |
