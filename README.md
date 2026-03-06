@@ -44,6 +44,7 @@ This project was also my way of leveling up my React skills while also working w
 | [Leaflet.js](https://leafletjs.com/) | Core mapping engine |
 | [Leaflet Awesome Markers](https://github.com/lennardv2/Leaflet.awesome-markers) | Custom colored map markers |
 | [CartoDB Positron](https://carto.com/basemaps/) | Clean, minimal map tile layer |
+| [Vercel](https://carto.com/basemaps/) |  |
 
 
 
