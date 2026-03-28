@@ -1,0 +1,197 @@
+[
+
+    {
+        "City": "Dallas, Texas",
+        "Country": "USA",
+        "Stadium_Name": "Dallas Stadium (AT&T Stadium)",
+        "Capacity": 94000,
+        "Surface": "Grass",
+        "Latitude": 32.74822086868171,
+        "Longitude": -97.09283786649388,
+        "Image_URL": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Cowboys_stadium_inside_view_4.JPG",
+        "League": "FIFA"
+    },
+
+
+    {
+        "City": "Mexico City, Mexico",
+        "Stadium_Name": "Mexico City Stadium (Estadio Azteca)",
+        "Capacity": 83000,
+        "Surface": "Grass",
+        "Latitude": 19.303068167688245, 
+        "Longitude": -99.15051161520269,
+        "Image_URL": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Soccer_game_at_the_Azteca_Stadium.JPG",
+        "League": "FIFA"
+    },
+
+    {
+        "City": "East Rutherford, New Jersey",
+        "Country": "United States",
+        "Stadium_Name": "New York/ New Jersey Stadium (MetLife Stadium)",
+        "Capacity": 82500,
+        "Surface": "Grass",
+        "Latitude": 40.81362414032056, 
+        "Longitude": -74.07440872015138,
+        "Image_URL": "https://upload.wikimedia.org/wikipedia/commons/5/54/Copa_America_game_between_Columbia_vs_Peru_at_the_MetLife_Stadium.jpg",
+        "League": "FIFA"
+    },
+
+    {
+        "City": "Atlanta, Georgia",
+        "Country": "United States",
+        "Stadium_Name": "Atlanta Stadium (Mercedes-Benz Stadium)",
+        "Capacity": 82500,
+        "Surface": "Grass",
+        "Latitude": 33.755448, 
+        "Longitude": -84.400855,
+        "Image_URL": "https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/f_auto/mls-atl-prd/yzbwhumpv3mva7lzeggg.jpg",
+        "League": "FIFA"
+    },
+
+    {
+        "City": "Kansas City, Missouri",
+        "Country": "United States",
+        "Stadium_Name": "Kansas City Stadium (GEHA Field at Arrowhead Stadium)",
+        "Capacity": 73000,
+        "Surface": "Grass",
+        "Latitude": 39.04889,
+        "Longitude": -94.48389,
+        "Image_URL": "https://upload.wikimedia.org/wikipedia/commons/1/10/25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg",
+        "League": "FIFA"
+    },
+
+    {
+        "City": "Houston, Texas",
+        "Country": "United States",
+        "Stadium_Name": "Houston Stadium (NRG Stadium)",
+        "Capacity": 72000,
+        "Surface": "Grass",
+        "Latitude": 29.6847,
+        "Longitude": -95.4107,
+        "Image_URL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/NRG_Stadium%2C_LEAGUES_CUP_2024_TIGRES_INTER_MIAMI.jnp.jpg",
+        "League": "FIFA"
+    },
+
+    {
+        "City": "Santa Clara, California",
+        "Country": "United States",
+        "Stadium_Name": "San Francisco Bay Area Stadium (Levi's Stadium)",
+        "Capacity": 71000,
+        "Surface": "Grass",
+        "Latitude": 37.4030,
+        "Longitude": -121.9700,
+        "Image_URL": "https://upload.wikimedia.org/wikipedia/commons/0/00/Entering_Levi%27s_Stadium.JPG",
+        "League": "FIFA"
+    },
+
+    {
+        "City": "Inglewood, California",
+        "Country": "United States",
+        "Stadium_Name": "Los Angeles Stadium (SoFi Stadium)",
+        "Capacity": 70000,
+        "Surface": "Grass",
+        "Latitude": 33.9535,
+        "Longitude": -118.3395,
+        "Image_URL": "https://upload.wikimedia.org/wikipedia/commons/d/d9/SoFi_Stadium_23rd_March_2025.jpg",
+        "League": "FIFA"
+    },
+
+    {
+        "City": "Philadelphia, Pennsylvania",
+        "Country": "United States",
+        "Stadium_Name": "Philadelpia Stadium (Lincoln Financial Field)",
+        "Capacity": 69000,
+        "Surface": "Grass",
+        "Latitude": 39.9008,
+        "Longitude": -75.1675,
+        "Image_URL": "https://upload.wikimedia.org/wikipedia/commons/6/6a/United_States_v_Paraguay%2C_Copa_Am%C3%A9rica_Centenario_%28cropped%29.jpg",
+        "League": "FIFA"
+    },
+
+    {
+        "City": "Seattle, Washington",
+        "Country": "United States",
+        "Stadium_Name": "Seattle Stadium (Lumen Field)",
+        "Capacity": 69000,
+        "Surface": "Grass",
+        "Latitude": 47.5952,
+        "Longitude": -122.3316,
+        "Image_URL": "https://upload.wikimedia.org/wikipedia/commons/1/1f/2025_FIFA_Club_World_Cup_-_Seattle_Sounders_FC_vs._Botafogo_-_03.jpg",
+        "League": "FIFA"
+    },
+
+    {
+        "City": "Foxborough, Massachusetts",
+        "Country": "United States",
+        "Stadium_Name": "Boston Stadium (Gillette Stadium)",
+        "Capacity": 65000,
+        "Surface": "Grass",
+        "Latitude": 42.0909,
+        "Longitude": -71.2643,
+        "Image_URL": "https://upload.wikimedia.org/wikipedia/commons/e/e7/New_England_Revolution_vs_Liga_Deportivo_Alajuense_2024-03-06_53571677017.jpg",
+        "League": "FIFA"
+    },
+
+    {
+        "City": "Miami Gardens, Florida",
+        "Country": "United States",
+        "Stadium_Name": "Miami Stadium (Hard Rock Stadium)",
+        "Capacity": 65000,
+        "Surface": "Grass",
+        "Latitude": 25.9580,
+        "Longitude": -80.2389,
+        "Image_URL": "https://upload.wikimedia.org/wikipedia/commons/0/01/Hard_Rock_Stadium_Club_World_Cup.jpg",
+        "League": "FIFA"
+    },
+
+    {
+        "City": "Vancouver, British Columbia",
+        "Country": "Canada",
+        "Stadium_Name": "BC Place",
+        "Capacity": 54000,
+        "Surface": "Grass",
+        "Latitude": 49.2796,
+        "Longitude": -123.1107,
+        "Image_URL": "https://upload.wikimedia.org/wikipedia/commons/f/ff/BC_Place_2015_Women%27s_FIFA_World_Cup.jpg",
+        "League": "FIFA"
+    },
+
+    {
+        "City": "Toronto, Ontario",
+        "Country": "Canada",
+        "Stadium_Name": "Toronto Stadium (BMO Field)",
+        "Capacity": 45000,
+        "Surface": "Grass",
+        "Latitude": 43.6333,
+        "Longitude": -79.4191,
+        "Image_URL": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/4f/e4f14ad3-4f83-541b-922e-f77465631c5f/66031031493da.image.jpg?resize=889%2C500",
+        "League": "FIFA"
+    },
+
+    {
+        "City": "Guadalupe (Monterrey), Nuevo León",
+        "Country": "Mexico",
+        "Stadium_Name": "Estadio BBVA",
+        "Capacity": 53500,
+        "Surface": "Grass",
+        "Latitude": 25.66918,
+        "Longitude": -100.24461,
+        "Image_URL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Estadio_BBVA_Bancomer_-_Diciembre_2017.jpg",
+        "League": "FIFA"
+    },
+    {
+        "City": "Zapopan (Guadalajara), Jalisco",
+        "Country": "Mexico",
+        "Stadium_Name": "Estadio Akron",
+        "Capacity": 48000,
+        "Surface": "Grass",
+        "Latitude": 20.68176,
+        "Longitude": -103.46267,
+        "Image_URL": "https://upload.wikimedia.org/wikipedia/commons/1/10/Estadio_Akron_02-07-2022_cabecera_sur_lado_derecho_%283%29.jpg",
+        "League": "FIFA"
+    }
+
+
+
+
+]
