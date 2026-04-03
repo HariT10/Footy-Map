@@ -1,4 +1,4 @@
-# 🏟️ Footy Map (In - Progress)
+# Footy Map (In - Progress)
 
 > An interactive map to explore professional soccer stadiums across North America.
 
