@@ -285,24 +285,7 @@ function App() {
 
         
 
-          {/* Legend */}
-          <div style={{ padding: "20px 24px", borderTop: "1px solid rgba(255,255,255,0.06)" }}>
-            <p style={{
-              fontSize: "10px", fontWeight: "600", letterSpacing: "1px",
-              textTransform: "uppercase", color: "rgba(255,255,255,0.3)", margin: "0 0 14px",
-            }}>Legend</p>
-            {[
-              { color: "#2196a6", label: "MLS — Major League Soccer" },
-              { color: "#c0392b", label: "CPL — Canadian Premier League" },
-
-            ].map(({ color, label }) => (
-              <div key={label} style={{ display: "flex", alignItems: "center", gap: "10px", marginBottom: "10px" }}>
-                <div style={{ width: "10px", height: "10px", borderRadius: "50%", backgroundColor: color, flexShrink: 0 }} />
-                <span style={{ fontSize: "12px", color: "rgba(255,255,255,0.5)", fontWeight: "500" }}>{label}</span>
-              </div>
-            ))}
-          </div>
-
+          
           {/* About Us — collapsible */}
           <div style={{ borderTop: "1px solid rgba(255,255,255,0.06)" }}>
             <button
@@ -330,7 +313,7 @@ function App() {
                   <em>Welcome to FootyMap!</em>
                 </p>
                 <p style={{ margin: 0, fontSize: "13px", lineHeight: "1.6", color: "rgba(255,255,255,0.5)" }}>
-                  <em>This application was built to showcase major soccer stadiums in North America's top soccer leagues.</em> 
+                  <em>This application was built to showcase major soccer stadiums in North America's top soccer leagues. Soon to be expanded!</em> 
                 </p>
                 <div style={{ borderTop: "1px solid rgba(255,255,255,0.06)", paddingTop: "12px" }}>
                   <p style={{ margin: 0, fontSize: "11px", color: "rgba(255, 255, 255, 0.2)" }}>
