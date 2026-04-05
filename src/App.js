@@ -1,10 +1,10 @@
 //By: Harishan Thilakanathan
 
 // src/App.js
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect} from "react";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
-import {useMap} from "react-leaflet";
+//import {useMap} from "react-leaflet";
 
 //importing the MLS stadiums dataset
 import mlsData from "./dataMLS.json";
@@ -110,7 +110,7 @@ function App() {
 
     const [sidebarOpen, setSidebarOpen] = useState(true);
 
-    const[sortBy, setSortBy] = useState("");
+    const[sortBy] = useState("");
 
     const [minCapacity, setCapacityRange] = useState(0);
 
